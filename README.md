@@ -1,8 +1,8 @@
 # Censo-TU-VIVIENDA-2020
 
-##Bienvenido al censo tu vivienda 2020
+## Bienvenido al censo tu vivienda 2020
 
-###Este censo ha sido realizado para la asignatura programacion III de IUTAV a cargo de Jose Luis Landaeta Velazques
+### Este censo ha sido realizado para la asignatura programacion III de IUTAV a cargo de Jose Luis Landaeta Velazques
 
 ### Autores:
 
