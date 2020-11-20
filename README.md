@@ -10,4 +10,4 @@
 
 > Sebastian Marquez - 29.935.658
 
-*Para obtenerlo solo debe presionar "Clone or download" en la esquina superior derecha de este recuadro, esta señalado con un boton verde.*
+*Para obtenerlo solo debe presionar "Code" en la esquina superior derecha de este recuadro y posteriormente descargarlo como .zip, esta señalado con un boton verde.*
